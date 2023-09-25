@@ -4,3 +4,8 @@ added "vi-mode" patch
         j -> n
         k -> t
     default paste from Clipboard, use Ctrl to paste from Primary
+    modified ctrl bindings
+       <C-h> = backspace
+       <C-s> = delete
+       <C-b> = normalmode
+    Other ctrl bindings have been removed
